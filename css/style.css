@@ -21,7 +21,7 @@ h2 {
 h3 {
     font-size: 160%;
 }
-menu {
+#wrapper menu {
     width: 100%;
     height: 60px;
     background-color: black;
